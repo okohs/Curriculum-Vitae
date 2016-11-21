@@ -16,7 +16,7 @@
 ### 言語
 - Java
 - Flex
-- Action Script
+- ActionScript
 - PHP
 - 日本語
   - ネイティブ
