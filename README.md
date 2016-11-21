@@ -55,21 +55,23 @@
 - AWSで組む最適なインフラ構築
 
 ## 登壇歴
-2016/10/09 DevFest Tokyo 2016  
-2016/09/14 PayPal Tech Meetup #3  
-2016/07/19 IoT縛りの勉強会! IoTLT vol.17 @ ヤフー  
-2016/06/17 Laravel勉強会  
-2016/05/21 JJUG CCC 2016 Spring  
-2016/05/20 dots.女子部  
-2016/03/24 dots.女子部  
-2016/02/12 milkcocoa meetup  
-2016/02/05 CROSS 2016  
-2016/01/21 第1回 ゆるゆる高専エンジニアLT大会 at FULLER  
-2015/12/21 dots.女子部  
-2015/12/20 高専カンファレンス100 in 東京  
-2015/11/28 JJUG CCC 2015 Fall  
-2015/10/31 「ECMAScript6勉強会」HappyHalloween JS 祭！！  
-2015/01/16 Tech Women - New Year's Party
+|Date|Event|
+|----|-----|
+|2016/10/09|DevFest Tokyo 2016|
+|2016/09/14|PayPal Tech Meetup #3|
+|2016/07/19|IoT縛りの勉強会! IoTLT vol.17 @ ヤフー|
+|2016/06/17|Laravel勉強会|
+|2016/05/21|JJUG CCC 2016 Spring|
+|2016/05/20|dots.女子部|
+|2016/03/24|dots.女子部|
+|2016/02/12|milkcocoa meetup|
+|2016/02/05|CROSS 2016|
+|2016/01/21|第1回 ゆるゆる高専エンジニアLT大会 at FULLER|
+|2015/12/21|dots.女子部|
+|2015/12/20|高専カンファレンス100 in 東京|
+|2015/11/28|JJUG CCC 2015 Fall|
+|2015/10/31|「ECMAScript6勉強会」HappyHalloween JS 祭！！|
+|2015/01/16|Tech Women - New Year's Party|
 
 ## 受賞歴
 - PayPal Tech Meetup #3 金賞
