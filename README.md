@@ -30,9 +30,9 @@
 - Java EEベースの独自フレームワーク
 - Zend Framework
   - ぐるなびのレストラン検索
-  - Laravel
-    - 社内ではじめて導入しました。[導入時のスライド](https://speakerdeck.com/okoysm/laravelli-equals-phpli-nasi-ga-laravelbu-jiao-sitahua-number-innocafe)
-    - ぐるなびのレストラン検索の一部コンテンツ(LP)や管理画面で採用
+- Laravel
+  - 社内ではじめて導入しました。[導入時のスライド](https://speakerdeck.com/okoysm/laravelli-equals-phpli-nasi-ga-laravelbu-jiao-sitahua-number-innocafe)
+  - ぐるなびのレストラン検索の一部コンテンツ(LP)や管理画面で採用
 
 ### その他
 - オフショア開発のブリッジSE
@@ -98,9 +98,9 @@
 
 ### 2012/4 - 2016/2: 株式会社日立製作所
 
-#### オンプレミス環境向け統合管理ソフトウェア開発 (2012/8〜2014/2)
+#### オンプレミス環境向け統合管理ソフトウェア開発 (2012/8〜2015/11)
 - 職務: 設計開発・ブリッジSE
-- 在籍期間中、計6ヶ月の休職期間有り
+- 在籍期間中、計9ヶ月の休職期間有り
 
 ##### 設計開発の業務内容 (2012/8〜2014/2)
 Web業界にあてはめるのであれば、フロントエンドとバックエンドを半々くらいでやってました。  
