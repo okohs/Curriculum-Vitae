@@ -57,9 +57,11 @@
 ## 登壇歴
 |Date|Event|Slide|
 |----|-----|-----|
+|2016/11/09|東京高専卒業生が後輩に送る楽しい授業 先輩の人生に学び、今日からできることを見つけよう|[講義資料](https://drive.google.com/file/d/0ByawtewcHSh9b1JzaDRibHU5RXM/view)|
 |2016/10/09|DevFest Tokyo 2016|[女性エンジニアコミュニティの力](https://speakerdeck.com/okoysm/nu-xing-enziniakomiyuniteifalseli-number-devfest16)|
 |2016/09/14|PayPal Tech Meetup #3|[お土産選びを助ける"PayPay"](https://speakerdeck.com/okoysm/otu-chan-xuan-biwozhu-kerupaypay)|
 |2016/07/19|IoT縛りの勉強会! IoTLT vol.17 @ ヤフー|[屋内GPSツールを作っていたと思ったら、いつのまにかノールック出勤ツールができてた](https://speakerdeck.com/okoysm/wu-nei-gpsturuwozuo-tuteita-tosi-tutara-itufalsemanika-falserutukuchu-qin-turugadekiteta-number-iotlt)|
+|2016/07/08|女子エンジニアLT夏祭り2016|[松村家を支える技術](http://qiita.com/okoysm/private/4d3820c1c3086c84aa04)|
 |2016/06/17|Laravel勉強会 InnoCAFE#21|[Laravel歴=PHP歴な私がLαravelを布教した話](https://speakerdeck.com/okoysm/laravelli-equals-phpli-nasi-ga-laravelbu-jiao-sitahua-number-innocafe)|
 |2016/05/21|JJUG CCC 2016 Spring|[もう知らないとは言わせない！Play Frameworkはじめの一歩](https://speakerdeck.com/okoysm/mouzhi-ranaitohayan-wasenai-play-frameworkhazimefalse-bu-number-jjug-ccc-number-ccc-m62)|
 |2016/05/20|dots.女子部 - オールジャンル女子エンジニア集合！tips共有会vol. 2　〜私、この技術に恋してます♡〜|[Scala女子はカッコイイ](https://speakerdeck.com/okoysm/scalanu-zi-hakatukoii-number-dotsgirls)|
