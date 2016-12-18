@@ -77,6 +77,7 @@
 |2015/01/16|Tech Women - New Year's Party|[エンプラYOUは何してる？〜B2Cビジネスを支えるITインフラ〜](http://www.slideshare.net/syokookochi/you-43850960)|
 
 ## 受賞歴
+- Mashup Awards 2016 For Pro 最優秀賞
 - PayPal Tech Meetup #3 金賞
 - IoTLT vol.17 がじぇるね賞
 
