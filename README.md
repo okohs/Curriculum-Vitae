@@ -59,7 +59,7 @@
 ## 登壇歴
 |Date|Event|Slide|
 |----|-----|-----|
-|2016/12/17|FESTA2016 by MashupAwards|[全社員早押上司争奪戦](https://speakerdeck.com/okoysm/quan-she-yuan-zao-ya-shang-si-zheng-duo-zhan-number-ma-2016-number-forprojue-sheng-zhan)|
+|2016/12/17|FESTA2016 by MashupAwards (for Pro部門 決勝戦)|[全社員早押上司争奪戦](https://speakerdeck.com/okoysm/quan-she-yuan-zao-ya-shang-si-zheng-duo-zhan-number-ma-2016-number-forprojue-sheng-zhan)|
 |2016/11/09|東京高専卒業生が後輩に送る楽しい授業 先輩の人生に学び、今日からできることを見つけよう|[講義資料](https://drive.google.com/file/d/0ByawtewcHSh9b1JzaDRibHU5RXM/view)|
 |2016/10/09|DevFest Tokyo 2016|[女性エンジニアコミュニティの力](https://speakerdeck.com/okoysm/nu-xing-enziniakomiyuniteifalseli-number-devfest16)|
 |2016/09/14|PayPal Tech Meetup #3|[お土産選びを助ける"PayPay"](https://speakerdeck.com/okoysm/otu-chan-xuan-biwozhu-kerupaypay)|
