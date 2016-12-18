@@ -34,6 +34,7 @@
 - Laravel
   - 社内ではじめて導入しました。[導入時のスライド](https://speakerdeck.com/okoysm/laravelli-equals-phpli-nasi-ga-laravelbu-jiao-sitahua-number-innocafe)
   - ぐるなびのレストラン検索の一部コンテンツ(LP)や管理画面で採用
+- Play Framework
 
 ### その他
 - オフショア開発のブリッジSE
