@@ -62,8 +62,7 @@
 |----|-----|-----|
 |2017/02/11|東京工業大学『エンジニアリング・デザインプロジェクトB+C 』発表会|資料非公開|
 |2017/02/04|ゆるふわScalaコップ本読書会 第1章|[師匠（SENSEI）を見つけよう](https://speakerdeck.com/okoysm/shi-jiang-sensei-wojian-tukeyou)|
-|2017/01/20|InnoCAFE#26 新年の抱負LT大会|[
-集中 #innocafe](https://speakerdeck.com/okoysm/ji-zhong-number-innocafe)|
+|2017/01/20|InnoCAFE#26 新年の抱負LT大会|[集中 #innocafe](https://speakerdeck.com/okoysm/ji-zhong-number-innocafe)|
 |2016/12/17|FESTA2016 by MashupAwards (for Pro部門 決勝戦)|[全社員早押上司争奪戦](https://speakerdeck.com/okoysm/quan-she-yuan-zao-ya-shang-si-zheng-duo-zhan-number-ma-2016-number-forprojue-sheng-zhan)|
 |2016/11/09|東京高専卒業生が後輩に送る楽しい授業 先輩の人生に学び、今日からできることを見つけよう|[講義資料](https://drive.google.com/file/d/0ByawtewcHSh9b1JzaDRibHU5RXM/view)|
 |2016/10/09|DevFest Tokyo 2016|[女性エンジニアコミュニティの力](https://speakerdeck.com/okoysm/nu-xing-enziniakomiyuniteifalseli-number-devfest16)|
