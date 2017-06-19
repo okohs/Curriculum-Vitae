@@ -59,6 +59,9 @@
 ## 登壇歴
 |Date|Event|Slide|
 |----|-----|-----|
+|2017/04/22|Women Techmakers Tokyo 2017|[stretch opportunities](https://speakerdeck.com/okoysm/stretch-opportunities-number-wtm17)|
+|2017/03/31|DENSO様向けデザイン思考プレゼン|資料非公開|
+|2017/02/24|雑兵MeetUp ＃9|[転職したら転職しやすくなった](https://speakerdeck.com/okoysm/zhuan-zhi-sitarazhuan-zhi-siyasukunatuta-number-zohyomeetup)|
 |2017/02/11|東京工業大学『エンジニアリング・デザインプロジェクトB+C 』発表会|資料非公開|
 |2017/02/04|ゆるふわScalaコップ本読書会 第1章|[師匠（SENSEI）を見つけよう](https://speakerdeck.com/okoysm/shi-jiang-sensei-wojian-tukeyou)|
 |2017/01/20|InnoCAFE#26 新年の抱負LT大会|[集中 #innocafe](https://speakerdeck.com/okoysm/ji-zhong-number-innocafe)|
