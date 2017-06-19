@@ -35,17 +35,18 @@
   - 社内ではじめて導入しました。[導入時のスライド](https://speakerdeck.com/okoysm/laravelli-equals-phpli-nasi-ga-laravelbu-jiao-sitahua-number-innocafe)
   - ぐるなびのレストラン検索の一部コンテンツ(LP)や管理画面で採用
 - Play Framework
+- akka-http
 
 ### その他
 - Google Developers Group Tokyo オーガナイザ
 - オフショア開発のブリッジSE
   - 言語だけでなく文化の違いを意識した開発ができます
 - 女性エンジニア向けイベント企画運営
-  - 女性エンジニアコミュニティ(dots.女子部, Geek Women Japan)の運営経験あり
+  - 女性エンジニアコミュニティ(TECH PLAY女子部, Geek Women Japan, Women Techmakers Tokyo)の運営経験あり
   - 平日夜の勉強会から、終日開催のカンファレンスまで企画経験あり
   - スポンサー集め、スピーカー集めなんでも
 - デザイン思考
-  - 東京工業大学のデザイン思考の授業に社会人プログラマとして参加しています
+  - 東京工業大学のデザイン思考の授業に社会人プログラマとして参加していました
   - 三ヶ月・半年かけてプロダクトを開発しました
 ## 強み
 - 人前で話すこと、何かをおすすめすることが得意
