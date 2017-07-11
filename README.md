@@ -58,13 +58,14 @@
 - AWSで組む最適なインフラ構築
 
 ## 直近の企画・運営歴
-|Date|Event|Slide|
-|----|-----|-----|
-|2017/06/10|Google I/O 報告会|
-|2017/04/22|Women Techmakers Tokyo|
-|2017/04/01|Next ’17 Extended - Tokyo|
-|2017/03/04|Geek Women Japan × Microsoft Geek になりたい人のためのミニカンファ|
-|2017/01/13|Geek Women New Years Party 2017|
+|Date|Event|
+|----|-----|
+|2017/06/10|[Google I/O 報告会](https://techplay.jp/event/622771)|
+|2017/04/22|[Women Techmakers Tokyo](https://gdg-tokyo.connpass.com/event/53754/)|
+|2017/04/01|[Next ’17 Extended - Tokyo](https://gdg-tokyo.connpass.com/event/52811/)|
+|2017/03/04|[Geek Women Japan × Microsoft Geek になりたい人のためのミニカンファ](https://techplay.jp/event/611429)|
+|2017/01/13|[Geek Women New Years Party 2017](https://techplay.jp/event/606517)|
+|2016/11/03|[Geek Women Japan 2016](https://techplay.jp/event/598461)|
 
 ## 登壇歴
 |Date|Event|Slide|
