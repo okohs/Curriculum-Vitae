@@ -5,7 +5,7 @@
 |key|value|
 |---|-----|
 |Name|松村翔子(Syoko Matsumura)|
-|Blog|[空飛ぶ羊](http://okoysm.hatenablog.com/)|
+|Blog|[空飛ぶ羊](http://okoysm.hatenablog.jp/)|
 |Twitter|[@okoysm](https://twitter.com/okoysm)|
 |Qiita|[okoysm](http://qiita.com/okoysm)|
 |SlideShare|[Syoko Matsumura](http://www.slideshare.net/syokookochi)|
@@ -56,6 +56,13 @@
 ## やったことはないが興味があるもの
 - JSを駆使したフロントエンド開発
 - AWSで組む最適なインフラ構築
+
+## 直近の企画・運営歴
+- 2017/06/10 Google I/O 報告会
+- 2017/04/22 Women Techmakers Tokyo
+- 2017/04/01 Next ’17 Extended - Tokyo (GDG)
+- 2017/03/04 Geek Women Japan × Microsoft Geek になりたい人のためのミニカンファ (GWJ)
+- 2017/01/13 Geek Women New Years Party 2017 (GWJ)
 
 ## 登壇歴
 |Date|Event|Slide|
